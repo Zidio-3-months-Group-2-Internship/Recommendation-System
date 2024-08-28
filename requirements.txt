@@ -1,0 +1,4 @@
+numpy
+joblib
+setuptools==58.2.0
+-e .
